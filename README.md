@@ -1,6 +1,6 @@
-# flame_base
+# Football
 
-A basic game created with Flame, a Flutter based game engine.
+A basic football simulation game created with Flame, a Flutter based game engine. 
 
 ## Getting Started
 
