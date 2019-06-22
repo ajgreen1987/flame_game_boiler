@@ -8,7 +8,6 @@ class MyGame extends FlameGame {
   Splash splash;
 
   void spawnComponent() {
-    // TODO: Implement Game Spawn Logic
     if(activeView == View.main){
       splash = new Splash(this);
       components.add(splash);

@@ -1,4 +1,6 @@
 class GameCard{
+  static const int maxDistance = 101;    // Max possible yardage
+  static const int maxFGDistance = 60;    // Max possible FG yardage
   int kickoff = 0;                  // Yardage for a kickoff, from start
   int kickoffStart = 30;            // Start position for kickoff
   int centerRun = 0;                // Yardage for a center run
